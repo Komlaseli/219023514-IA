@@ -1,0 +1,32 @@
+[
+
+    {
+        "name": "Nyonator Komla",
+        "role": "CEO",
+        "id": "011",
+        "email": "pselinam@gmail.com",
+        "image":"https://images.unsplash.com/photo-1495603889488-42d1d66e5523?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+    {
+        "name": "Nicole Gadri",
+        "role": "Manager",
+        "id": "015",
+        "email": "pselinam@gmail.com",
+        "image":"https://stcroixsource.com/wp-content/uploads/sites/3/2018/07/Detra-Davis-.png"
+    },
+    {
+        "name": "Prince Selinam",
+        "role": "Chief Security",
+        "id": "212",
+        "email": "pselinam@gmail.com",
+        "image":"https://d39l2hkdp2esp1.cloudfront.net/img/photo/180836/180836_00_2x.jpg"
+    },
+    {
+        "name": "Komla Seli",
+        "role": "Driver",
+        "id":   "201",
+        "email": "pselinam@gmail.com",
+        "image":"https://miro.medium.com/max/1220/1*k6vorFtaiJNfjflpNxt8kQ.jpeg"
+    }
+    
+    
+]

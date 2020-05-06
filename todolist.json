@@ -1,0 +1,23 @@
+[
+
+    {
+        "task": "Pay Salaries",
+        "dept": "Finance Dept",
+        "time": "7:00am"
+    },
+    {
+        "task": "Execute Sales",
+        "dept": "Sales Dept",
+        "time": "8:00am"
+    },
+    {
+        "task": "Provide Lunch",
+        "dept": "Food and Baverage Dept",
+        "time": "12:00pm"
+    },
+    {
+        "task": "Data Backup",
+        "dept": "IT Dept",
+        "time": "8:00pm"
+    }
+]
